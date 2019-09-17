@@ -3,6 +3,7 @@ import { useTranslation, withTranslation, Trans } from 'react-i18next';
 import logo from './logo.svg';
 import './App.css';
 
+// use hoc for class based components
 class LegacyWelcomeClass extends Component {
   render() {
     const { t, i18n } = this.props;

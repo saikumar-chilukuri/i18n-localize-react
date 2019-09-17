@@ -1,9 +1,7 @@
+## start
 
-
-## install dependencies
 npm install
 
-## start
-npm start
-
-
+```bash
+# npm start
+```
